@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ruhoh/theme-bootstrap-2.git
+	branch = master
+	commit = f7058301385bcf9cab6ee3a98bfc1a0e7a120388
+	parent = 59c6d685d6bba73a18d24adfd8a2c540e5520eaf
+	cmdver = 0.3.0
