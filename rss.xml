@@ -3,17 +3,17 @@
   <channel>
     <title>Site Title</title>
     <description>Site Title</description>
-    <link/>
+    <link>http://inscriptionlens.xyz</link>
     <pubDate>2016-06-01</pubDate>
     <item>
       <title>Archive</title>
-      <link>/archive</link>
+      <link>http://inscriptionlens.xyz/archive</link>
       <description>
 </description>
     </item>
     <item>
       <title>Categories</title>
-      <link>/categories</link>
+      <link>http://inscriptionlens.xyz/categories</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
 &lt;/ul&gt;
@@ -22,7 +22,7 @@
     </item>
     <item>
       <title>Home</title>
-      <link>/</link>
+      <link>http://inscriptionlens.xyz/</link>
       <description>## Hello World
 
 
@@ -34,7 +34,7 @@
     </item>
     <item>
       <title>Pages</title>
-      <link>/pages</link>
+      <link>http://inscriptionlens.xyz/pages</link>
       <description>
 &lt;ul&gt;
   
@@ -57,7 +57,7 @@
     </item>
     <item>
       <title>Tags</title>
-      <link>/tags</link>
+      <link>http://inscriptionlens.xyz/tags</link>
       <description>
 &lt;ul class="tag_box inline"&gt;
 &lt;/ul&gt;
